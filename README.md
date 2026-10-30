@@ -1,2 +1,2 @@
-# xv6-Operating-System-Kernel-Feature-Extension
+# Scheduling Algorithms in xv6
 project of csc3150 in cuhksz
